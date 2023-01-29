@@ -6,7 +6,7 @@ int main() {
 	cin>>n;
      while(n--)
 	  {
-	        int a;
+               int a;
 	        cin>>a;
 	        if(a>=1 && a<=1000)
 	        {
